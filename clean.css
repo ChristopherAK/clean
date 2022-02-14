@@ -10,7 +10,7 @@ nav{
     align-items: center;
 }
 nav h2 span{
-    color:teal;
+    color:gray;
 }
 .nav-links{
     flex: 1;
